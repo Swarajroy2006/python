@@ -1,5 +1,4 @@
 # Install an external module and use it to perform an operation of your interest.
-#English To Bengali Translation using deep_translator and pyttsx3
 
 from deep_translator import GoogleTranslator
 # pip install googletrans==4.0.0-rc1 gTTS
